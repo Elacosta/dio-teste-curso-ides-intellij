@@ -56,7 +56,7 @@ public class Cat {
 
     @Override
     public String toString() {
-        return "Cat{" +
+        return "gato" +
                 "name='" + name + '\'' +
                 ", color='" + color + '\'' +
                 ", age=" + age +
